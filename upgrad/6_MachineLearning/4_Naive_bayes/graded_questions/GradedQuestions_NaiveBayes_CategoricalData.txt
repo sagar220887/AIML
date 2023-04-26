@@ -1,0 +1,15 @@
+1. What is the prior probability of a mail being spam, P(class = spam)? - 7/15
+2. What does Naive Bayes assume while classifying spam or ham mails?
+	That frequency of keywords like hurry, free, offer etc. are conditionally independent of each other
+3. Consider an email with the vector of features X = (free, data, weekend, click). What is the likelihood, P(X | spam)? - 4/ 2401
+4. Consider an email with the vector of features X = (free, data, weekend, click). What is the likelihood, P(X | ham)? - 2/4096
+5. The value of P(X|Class). P(Class) for class = spam for X = (free, data, weekend, click)?  - (4/2401)(7/15)
+6. What is the posterior for class = ham (i.e. without division by denominator) for the feature vector  X = (free, data, weekend, click)? (2/4096)(8/15)
+7. Which class should be point X = (free, data, weekend, click) be classified into? - Spam
+
+
+
+1. What is the accuracy of the model? - 940/1000
+2. What is the sensitivity of the model? - 440 / 480
+3. What is the specificity of the model? - 500 / 520
+4. Given that you do not want to misclassify any genuine emails, which metric should be as high as possible? - Specificity

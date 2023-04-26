@@ -1,0 +1,41 @@
+data file: https://query.data.world/s/srgmggc27wsevjcgo3idzko6scwls3
+
+![title](https://upload.wikimedia.org/wikipedia/commons/8/89/Boxplot_vs_PDF.png)
+
+![title](https://sigmamagic.com/blogs/images/quartiles.jpg)
+
+![title](https://devopedia.org/images/article/75/5652.1523703926.jpg)
+
+
+###### Visualize the correlation between the number of missing values in different columns as a heatmap
+
+- A value near -1 means if one variable appears then the other variable is very likely to be missing.
+- A value near 0 means there is no dependence between the occurrence of missing values of two variables.
+- A value near 1 means if one variable appears then the other variable is very likely to be present.
+
+
+* Skewness is a measure of symmetry, or more precisely, the lack of symmetry. A distribution, or data set, is symmetric if it looks the same to the left and right of the central point.
+
+* Kurtosis is a measure of whether the data are heavy-tailed or light-tailed relative to a normal distribution. That is, data sets with high kurtosis tend to have heavy tails, or outliers. Data sets with low kurtosis tend to have light tails, or lack of outliers.
+
+
+- If the skewness is between -0.5 and 0.5, the data are fairly symmetrical
+- If the skewness is between -1 and — 0.5 or between 0.5 and 1, the data are moderately skewed
+- If the skewness is less than -1 or greater than 1, the data are highly skewed
+
+
+* If the distribution is tall and thin it is called a leptokurtic distribution(Kurtosis > 3). Values in a leptokurtic distribution are near the mean or at the extremes.
+* A flat distribution where the values are moderately spread out (i.e., unlike leptokurtic) is called platykurtic(Kurtosis <3) distribution.
+* A distribution whose shape is in between a leptokurtic distribution and a platykurtic distribution is called a mesokurtic(Kurtosis=3) distribution. A mesokurtic distribution looks more close to a normal distribution.
+
+
+
+
+
+- High kurtosis in a data set is an indicator that data has heavy outliers.
+- Low kurtosis in a data set is an indicator that data has lack of outliers.
+
+
+![title](https://miro.medium.com/max/519/1*bcg1TOIa6uFVeVe7eWSqGQ.png)
+
+![title](https://i.stack.imgur.com/nVvnQ.png)

@@ -1,0 +1,49 @@
+
+var ftGUID_6803150="5424A4175BB844";
+var ftConfID_6803150="0";
+var ftParams_6803150="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fhtml%2Fr20230215%2Fr20110914%2Fzrt_lookup.html%3Ffsb%3D1%23RS-2-%26adk%3D1812271801%26client%3Dca-pub-4695912699318711%26fa%3D1%26ifi%3D11%26uci%3Da!b%26btvi%3D2%26xpc%3D81kkK0saNg%26p%3Dhttps%253A%2F%2Fwww.listendata.com&us_privacy=${US_PRIVACY}&cachebuster=357519.1164592329&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_6803150="";
+var ftCustom_6803150="";
+var ftSection_6803150="";
+var ftSegment_6803150="afr5";
+var ftSegmentList_6803150=[{s:'afr5'}];
+var ftRuleMatch_6803150="0";
+var ftTimestamp_6803150="1677565298";
+var ftGeoC2_6803150="in";
+var ftGeoState_6803150="ka";
+var ftGeoCity_6803150="belgaum";
+var ftISP_6803150="reliance jio infocomm limited";
+var ftSpeed_6803150="cable";
+var ftConnType_6803150="wifi";
+var ftDMA_6803150="356004";
+var ftLong_6803150="74.75";
+var ftLat_6803150="16.33";
+var ftPostal_6803150="590001";
+var ftTimeZone_6803150="+530";
+var ftMobileCarrier_6803150="";
+var ftImp6803150 = {};
+ftImp6803150.privacy = "x";
+ftImp6803150.guidAge = "113";
+ftImp6803150.impID = "5FD68991-4F8D-5614-574A-3673A9011164";
+ftImp6803150.duid = "FT:5424A4175BB844";
+
+ftImp6803150.ft_tpplid = "";
+ftImp6803150.ft_c = {};
+ftImp6803150.gdpr = "";
+ftImp6803150.gdpr_consent = "";
+ftImp6803150.gdpr_pd = "";
+ftImp6803150.oob_consent = "";
+ftImp6803150.gdprStoredConsent = "";
+ftImp6803150.us_privacy = "!!US_PRIVACY!";
+
+ftImp6803150.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_6803150') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/680/6803150/3628535/js/j-6803150-3628535.js";
+    js.id = "ftscript_m6803150";
+    tag.parentNode.insertBefore(js, tag);
+}());

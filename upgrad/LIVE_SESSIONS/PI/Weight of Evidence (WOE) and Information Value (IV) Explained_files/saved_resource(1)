@@ -1,0 +1,49 @@
+
+var ftGUID_6803150="5424A4175BB844";
+var ftConfID_6803150="0";
+var ftParams_6803150="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fclient%3Dca-pub-4695912699318711%26output%3Dhtml%26h%3D90%26slotname%3D4202636189%26adk%3D3348593741%26adf%3D754575065%26pi%3Dt.ma~as.4202636189%26w%3D842%26lmt%3D1676650945%26rafmt%3D12%26format%3D842x90%26url%3Dhttps%253A%252F%252Fwww.listendata.com%252F2015%252F03%252Fweight-of-evidence-woe-and-information.html%26host%3Dca-host-pub-1556223355139109%26wgl%3D1%26uach%3DWyJXaW5kb3dzIiwiMTUuMC4wIiwieDg2IiwiIiwiMTA5LjAuNTQxNC4xMjAiLFtdLGZhbHNlLG51bGwsIjY0IixbWyJOb3RfQSBCcmFuZCIsIjk5LjAuMC4wIl0sWyJHb29nbGUgQ2hyb21lIiwiMTA5LjAuNTQxNC4xMjAiXSxbIkNocm9taXVtIiwiMTA5LjAuNTQxNC4xMjAiXV0sZmFsc2Vd%26dt%3D1676696255525%26bpp%3D3%26bdt%3D265%26idt%3D496%26shv%3Dr20230215%26mjsv%3Dm202302130101%26ptt%3D9%26saldr%3Daa%26abxe%3D1%26cookie%3DID%253D9bd3093f533293c0-22f0c68f86d900d7%253AT%253D1675490329%253ART%253D1675490329%253AS%253DALNI_MZYTT2QJhBrNbq_crgVeI3qZavp-Q%26gpic%3DUID%253D00000bb5e5e79028%253AT%253D1675490329%253ART%253D1675490329&us_privacy=${US_PRIVACY}&cachebuster=581506.1127710069&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_6803150="";
+var ftCustom_6803150="";
+var ftSection_6803150="";
+var ftSegment_6803150="afr5";
+var ftSegmentList_6803150=[{s:'afr5'}];
+var ftRuleMatch_6803150="0";
+var ftTimestamp_6803150="1677565258";
+var ftGeoC2_6803150="in";
+var ftGeoState_6803150="ka";
+var ftGeoCity_6803150="belgaum";
+var ftISP_6803150="reliance jio infocomm limited";
+var ftSpeed_6803150="cable";
+var ftConnType_6803150="wifi";
+var ftDMA_6803150="356004";
+var ftLong_6803150="74.75";
+var ftLat_6803150="16.33";
+var ftPostal_6803150="590001";
+var ftTimeZone_6803150="+530";
+var ftMobileCarrier_6803150="";
+var ftImp6803150 = {};
+ftImp6803150.privacy = "x";
+ftImp6803150.guidAge = "113";
+ftImp6803150.impID = "83C7CF5E-1D6E-DBE6-2DDD-0841FAE476A5";
+ftImp6803150.duid = "FT:5424A4175BB844";
+
+ftImp6803150.ft_tpplid = "";
+ftImp6803150.ft_c = {};
+ftImp6803150.gdpr = "";
+ftImp6803150.gdpr_consent = "";
+ftImp6803150.gdpr_pd = "";
+ftImp6803150.oob_consent = "";
+ftImp6803150.gdprStoredConsent = "";
+ftImp6803150.us_privacy = "!!US_PRIVACY!";
+
+ftImp6803150.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_6803150') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/680/6803150/3628535/js/j-6803150-3628535.js";
+    js.id = "ftscript_m6803150";
+    tag.parentNode.insertBefore(js, tag);
+}());
